@@ -9,7 +9,7 @@ but I make no real claims beyond that. If you use it you will almost certainly
 run into problems.
 
 The concept here is as follows: Suppose we want to test something by throwing
-random data at it, e.g. using `Hypothesis <http://hypothesis.readthedocs.org>`_,
+random data at it, e.g. using `Hypothesis <https://hypothesis.readthedocs.io>`_,
 but the subset of the data we do anything useful with is extremely finicky
 and we don't have a good handle on what a useful distribution would be.
 
